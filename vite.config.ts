@@ -5,6 +5,7 @@ import { resolve } from 'node:path'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/vue3-vite-typescript-tailwindcss4-starter/',
   plugins: [
     vue(),
     tailwindcss(),
