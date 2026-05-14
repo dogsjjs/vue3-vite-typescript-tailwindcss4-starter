@@ -1,0 +1,23 @@
+// 品牌色
+$color-primary: #42b883;
+$color-primary-dark: #33a06f;
+$color-primary-light: #c8ead9;  // ≈ lighten($color-primary, 40%)
+$color-secondary: #213547;
+
+// 字体
+$font-size-sm: 0.875rem;
+$font-size-base: 1rem;
+$font-size-lg: 1.125rem;
+$font-size-xl: 1.25rem;
+
+// 圆角
+$border-radius-sm: 4px;
+$border-radius-base: 8px;
+$border-radius-lg: 12px;
+
+// 间距
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-base: 16px;
+$spacing-lg: 24px;
+$spacing-xl: 32px;
